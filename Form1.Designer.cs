@@ -159,7 +159,7 @@
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Марковские подстановки";
             this.ResumeLayout(false);
             this.PerformLayout();
 
